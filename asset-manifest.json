@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SH-Access_Levels/static/css/main.50190981.chunk.css",
+    "main.js": "/SH-Access_Levels/static/js/main.2d196ed9.chunk.js",
+    "main.js.map": "/SH-Access_Levels/static/js/main.2d196ed9.chunk.js.map",
+    "runtime-main.js": "/SH-Access_Levels/static/js/runtime-main.2bdf4f7d.js",
+    "runtime-main.js.map": "/SH-Access_Levels/static/js/runtime-main.2bdf4f7d.js.map",
+    "static/js/2.efe37b95.chunk.js": "/SH-Access_Levels/static/js/2.efe37b95.chunk.js",
+    "static/js/2.efe37b95.chunk.js.map": "/SH-Access_Levels/static/js/2.efe37b95.chunk.js.map",
+    "index.html": "/SH-Access_Levels/index.html",
+    "static/css/main.50190981.chunk.css.map": "/SH-Access_Levels/static/css/main.50190981.chunk.css.map",
+    "static/js/2.efe37b95.chunk.js.LICENSE.txt": "/SH-Access_Levels/static/js/2.efe37b95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bdf4f7d.js",
+    "static/js/2.efe37b95.chunk.js",
+    "static/css/main.50190981.chunk.css",
+    "static/js/main.2d196ed9.chunk.js"
+  ]
+}
